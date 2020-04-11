@@ -21,14 +21,14 @@ The main objective was to develop a Shiny app from the unstructured text data co
 4. Libraries Used
 5. Summary of Processes/Frameworks Used
 6. Repository Files Included
-7. Preview Screenshots of Shiny Dashboard
-
+7. Preview Screenshots of Final Shiny App
 
 ## Technical Information/Packages Used
 
 **Built with** [R Studio](https://rstudio.com/)
 
 ### Libraries Used
+
 - tidytext
 - textreadr
 - tidyverse
@@ -47,6 +47,7 @@ The main objective was to develop a Shiny app from the unstructured text data co
 - Sentiment libraries: AFINN, Bing, NRC
 
 ## Summary of Processes/Frameworks Used
+
 1. Survey responses were collected as unstructured text data
 2. Each of the five questions asked were placed in separate dataframes to further structure using tidy format
 3. Responses were tokenized and standard stop words were removed
@@ -65,11 +66,14 @@ The main objective was to develop a Shiny app from the unstructured text data co
 - SHINY DASHBOARD.R
 - server.R
 - ui.R
-
-
-
+- 5 Preview Screenshots of Shiny app
 
 ## Preview Screenshots of Final Shiny App
 
+![image](https://github.com/pschooley/Speech-To-Text-Project/blob/master/Dashboard1.png)
+![image](https://github.com/pschooley/Speech-To-Text-Project/blob/master/Dashboard2.png)
+![image](https://github.com/pschooley/Speech-To-Text-Project/blob/master/Dashboard3.png)
+![image](https://github.com/pschooley/Speech-To-Text-Project/blob/master/Dashboard4.png)
+![image](https://github.com/pschooley/Speech-To-Text-Project/blob/master/Dashboard5.png)
 
 
