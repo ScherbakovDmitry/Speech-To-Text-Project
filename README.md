@@ -11,7 +11,7 @@ This repo contains the text analysis of survey responses collected from students
 4. Would you like to work at the San Jose office at least once per week? Why?
 5. Would you relocate to the San Jose office?
 
-The main objective was to develop a Shiny app from the unstructured text data containing the business insight gained from the quantitative frameworks used throughout the analysis.   
+The main objective was to develop a Shiny app from the unstructured text data containing the business insight gained from the quantitative frameworks used throughout the analysis. Please use this link to view te final dashboard: [ShinyApp](http://127.0.0.1:3664/)   
 
 ## Table of contents
 
@@ -21,6 +21,7 @@ The main objective was to develop a Shiny app from the unstructured text data co
 4. Libraries Used
 5. Summary of Processes/Frameworks Used
 6. Repository Files Included
+7. Preview Screenshots of Shiny Dashboard
 
 
 ## Technical Information/Packages Used
@@ -68,7 +69,7 @@ The main objective was to develop a Shiny app from the unstructured text data co
 
 
 
-## Resources (Documentation and other links)
-http://127.0.0.1:3664/
+## Preview Screenshots of Final Shiny App
+
 
 
